@@ -3,6 +3,8 @@ This directory contains matlab functions to compute phase amplitude coupling (PA
 
 Place the matlab package anywhere on your computer and add it to your matlab path. This can be done by pulling down the File tab in the Matlab editor. Make sure that you use "Add with subfolders". For future use, you can save this path by clicking save. 
 
+
+
 Sub directories:
 
 /chronux - core functions for coherence computing
@@ -15,7 +17,12 @@ Sub directories:
 
 /shadedErrorBar - support function to shade error bars on MATLAB figures
 
+
+
 Please send feedback and suggestions to the corresponding author: robert.liu@emory.edu
+
+
+
 
 In publications, please reference: 
 
